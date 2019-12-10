@@ -1,2 +1,0 @@
-# Arten von Blockchains
-
