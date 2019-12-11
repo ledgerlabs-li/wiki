@@ -14,8 +14,8 @@
 * [Blockchain](blockchain/blockchain/README.md)
   * [Geschichte](blockchain/blockchain/geschichte.md)
   * [Definition](blockchain/blockchain/definition.md)
-  * [Smart Contracts](blockchain/blockchain/smart-contracts.md)
 * [Anwendungen](blockchain/anwendungen/README.md)
+  * [Smart Contracts](blockchain/anwendungen/smart-contracts.md)
   * [Anwendungsgebiete](blockchain/anwendungen/anwendungsgebiete.md)
   * [Use-Case Assessment](blockchain/anwendungen/use-case-assessment.md)
 * [Plattformen](blockchain/plattformen/README.md)
@@ -37,6 +37,8 @@
 
 ## Krypto-Ökonomie
 
-* [Kryptowährungen](krypto-oekonomie/kryptowaehrungen.md)
+* [Kryptowährungen](krypto-oekonomie/kryptowaehrungen/README.md)
+  * [Bitcoin](krypto-oekonomie/kryptowaehrungen/bitcoin.md)
+  * [Ether](krypto-oekonomie/kryptowaehrungen/ether.md)
 * [Digital Assets](krypto-oekonomie/digital-assets.md)
 
