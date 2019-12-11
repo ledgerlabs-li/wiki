@@ -55,7 +55,7 @@ Diese Tool hilft Dir zu verstehen wie der Mining Prozess funktionert. Verändere
 
 ### 4. Blockchain
 
-Eine Blockchain stellt die Verkettung von Transaktionsblöcken dar. Jeder Block enthält im Block-Header den Hash-Wert des vorherigen Blocks. Das Netzwerk vertraut immer der längsten Kette von Blocken, also derjenigen Blockchain in die bereits am meisten Rechenleistung geflossen ist. Dies stellt sicher, dass im Nachgang keine Transaktionen manipuliert werden können, da ansonsten die Hash-Werte den definierten Schwellwert nicht mehr einhalten. 
+Eine [Blockchain ](https://lab.ledgerlabs.li/dlt/blockchain/definition)stellt die Verkettung von Transaktionsblöcken dar. Jeder Block enthält im Block-Header den Hash-Wert des vorherigen Blocks. Das Netzwerk vertraut immer der längsten Kette von Blocken, also derjenigen Blockchain in die bereits am meisten Rechenleistung geflossen ist. Dies stellt sicher, dass im Nachgang keine Transaktionen manipuliert werden können, da ansonsten die Hash-Werte den definierten Schwellwert nicht mehr einhalten. 
 
 {% hint style="success" %}
 Dieses Tool hilft Dir zu verstehen, warum Daten einer Blockchain manipulationssicher sind. Erfasse den Dateninput für mehrere Blöcke und führe Mining-Prozess durch und verändere danach die Daten eines Blocks. [https://andersbrownworth.com/blockchain/blockchain](https://andersbrownworth.com/blockchain/blockchain)
