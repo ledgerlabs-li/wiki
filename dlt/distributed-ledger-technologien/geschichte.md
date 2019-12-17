@@ -1,6 +1,4 @@
 # Geschichte
 
-## Geschichte des Internets
-
-![Geschichte des Internets. In Anlehnung an Voshmgir \(2019\).](../../.gitbook/assets/history-of-the-internet.png)
+![Geschichte von Distributed Leger Technologien. In Anlehnung an Rauchs et al. \(2018\).](../../.gitbook/assets/historyofbc.png)
 
