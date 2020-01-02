@@ -1,6 +1,6 @@
 # Mythen
 
-**Langsam, aber nicht manipulierbar? Über die Blockchain sind viele Mythen im Umlauf. Manche Unternehmen behaupten, mit ihren Blockchain-Lösungen die Welt verändern zu können. Die Blockchain Technologie lässt nicht all unsere Probleme verschwinden — allerdings bieten sogenannte Distributed Ledgers in vielen Bereichen valide Use Cases.** 
+**Über die Blockchain sind viele Mythen im Umlauf. Manche Unternehmen behaupten, mit ihren Blockchain-Lösungen die Welt verändern zu können. Die Blockchain Technologie lässt nicht all unsere Probleme verschwinden — allerdings bieten sogenannte Distributed Ledgers in vielen Bereichen valide Use Cases.** 
 
 ### 1. Blockchain = Bitcoin
 

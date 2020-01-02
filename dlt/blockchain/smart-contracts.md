@@ -1,6 +1,6 @@
 # Smart Contracts
 
-**Was ist ein Smart Contract und warum benötigt man dafür eine Blockchain? Ein Smart Contract ist ein programmierter und regel-basierter digitaler Vertrag auf der Blockchain. Im Gegensatz zu herkömmlichen Verträgen sind Smart Contracts eindeutig und werden automatisch verarbeitet \(Lewrick & Di Giorgio, 2018, S. 73\).**
+> **Ein Smart Contract ist ein programmierter und regel-basierter digitaler Vertrag auf der Blockchain. Im Gegensatz zu herkömmlichen Verträgen sind Smart Contracts eindeutig und werden automatisch verarbeitet \(Lewrick & Di Giorgio, 2018, S. 73\).**
 
 Der Begriff "Smart Contract" wurde erstmals von Nick Szabo \(1994\) einem Kryptografen und Computer Scientist, verwendet. In der Kombination von digitalen Verträgen und der Architektur einer Blockchain wird durch die Gemeinschaft \(Miner\) sichergestellt, dass die vereinbarten Vertragsbedingungen in jedem Fall automatisch ausgeführt werden \(Hosp, 2018, S. 122\).
 
