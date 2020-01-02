@@ -4,7 +4,11 @@ Antonopoulos, A. M. \(2014\). Mastering Bitcoin: unlocking digital cryptocurrenc
 
 Back, A. \(2002\). Hashcash - A Denial of Service Counter-Measure. [http://www.Hashcash.Org/Papers/Hashcash.Pdf](http://www.Hashcash.Org/Papers/Hashcash.Pdf).
 
-Blockchain Hub. \(2019\). What is an ICO? Initial Coin Offering - Blockchain Tokens. Abgerufen 21. April, 2019, von [https://blockchainhub.net/ico-initial-coin-offerings/](https://blockchainhub.net/ico-initial-coin-offerings/) 
+Binance. \(2019, Dezember 30\). Byzantinische Fehlertoleranz. Abgerufen 2. Januar 2020, von [https://www.binance.vision/de/blockchain/byzantine-fault-tolerance-explained](https://www.binance.vision/de/blockchain/byzantine-fault-tolerance-explained)
+
+Blockchain Hub. \(2019\). What is an ICO? Initial Coin Offering - Blockchain Tokens. Abgerufen 21. April, 2019, von [https://blockchainhub.net/ico-initial-coin-offerings/](https://blockchainhub.net/ico-initial-coin-offerings/)
+
+Blockgeeks. \(2019, November 14\). What Are Dapps? The New Decentralized Future. Abgerufen 2. Januar 2020, von [https://blockgeeks.com/guides/dapps/](https://blockgeeks.com/guides/dapps/)
 
 Busby, M. \(2018, 1. Februar\). Blockchain is this year's buzzword - but can it outlive the hype? Abgerufen 3. März, 2019, von [https://www.theguardian.com/technology/2018/jan/30/blockchain-buzzword-hype-open-source-ledger-bitcoin](https://www.theguardian.com/technology/2018/jan/30/blockchain-buzzword-hype-open-source-ledger-bitcoin) 
 
@@ -25,6 +29,8 @@ Lockyer, M. \(2018, 22. Juni\). Designing Multi-Token Economies. Abgerufen 18. F
 Merkle, R. C. \(2012\). Protocols for public key cryptosystems. Proceedings - IEEE Symposium on Security and Privacy. [https://doi.org/10.1109/SP.1980.10006](https://doi.org/10.1109/SP.1980.10006)
 
 Nakamoto, S. \(2008\). Bitcoin: A Peer-to-Peer Electronic Cash System. Abgerufen von [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
+
+Rauchs, M., Glidden, A., Gordon, B., Pieters, G. C., Recanatini, M., Rostand, F., … Zhang, B. Z. \(2018\). Distributed Ledger Technology Systems: A Conceptual Framework. SSRN Electronic Journal. [https://doi.org/10.2139/ssrn.3230013](https://doi.org/10.2139/ssrn.3230013)
 
 Sergeenkov, A. \(2019, 27. März\). Initial Exchange Offering — The Next Popular Fundraising Scheme In Crypto? Abgerufen 21. April, 2019, von [https://hackernoon.com/initial-exchange-offering-the-next-popular-fundraising-scheme-in-crypto-aa1c58679b98?gi=f999ad280c1d](https://hackernoon.com/initial-exchange-offering-the-next-popular-fundraising-scheme-in-crypto-aa1c58679b98?gi=f999ad280c1d) 
 
