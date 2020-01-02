@@ -2,7 +2,7 @@
 
 Proof-of-Work \(PoW\) war der erste Konsens-Algorithmus einer Blockchain. Von Satoshi Nakamoto für den Einsatz in der Bitcoin-Blockchain entwickelt, verdanken wir PoW die hohen Mining-Aktivitäten und den damit einhergehenden Stromverbrauch. PoW ist bei genügend Netzwerkknoten ein sehr zuverlässiges System. Dies kann nicht von vielen Konsens-Mechanismen behauptet werden. Zu diesem Zeitpunkt wird PoW jedoch bereits als veraltete Technologie betrachtet. Ethereum wechselt vom PoW-Algorithmus zum Energie-effizienteren und wirtschaftlicheren System - Proof-of-Stake \(PoS\) \(Whiterspoon, 2018\).
 
-## Kurz gesagt...
+## In Kürze
 
 In PoW lösen Miner schwierige kryptografische Rätsel, um zu beweisen, dass eine gewisse Menge an Rechenleistung aufgewendet wurde, um Transaktionen zu validieren. Alle Miner arbeiten simultan an derselben Aufgabe und stehen im Wettbewerb zueinander. Findet einer der Miner die korrekte Lösung, teilt er diese mit dem gesamten Netzwerk und ein neuer Block wird generiert. Ist die Lösung korrekt, was leicht überprüfen lässt, erhält er eine Entlohnung. Die Miner versuchen nun den nächsten Transaktions-Block zu lösen, welcher auf dem vorhergehenden basiert. Proof-of-Work gewährleistet somit chronologische Ordnung von Transaktionsblöcken. Die Miner vertrauen dabei immer derjenigen Blockchain, die am längsten ist. Das heisst, sie schenken derjenigen Blockchain, in die bereits die meiste Rechenarbeit geflossen ist ihr Vertrauen. Eine Datenmanipulation wird dadurch extrem rechenintensiv und bedarf mehr als 50 Prozent der Rechenleistung des gesamten Netzwerks. Stark dezentralisierte Blockchains, welche den PoW-Algorithmus verwenden, werden deshalb als nicht manipulierbar angesehen.
 

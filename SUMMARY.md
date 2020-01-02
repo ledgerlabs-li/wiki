@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Learning Center](README.md)
-* [Research Center](research.md)
+* [Quellen](quellen.md)
 
 ## Grundlagen
 
@@ -20,10 +20,8 @@
   * [Geschichte](dlt/blockchain/geschichte.md)
   * [Definition](dlt/blockchain/definition.md)
   * [Mythen](dlt/blockchain/mythen.md)
-  * [Anwendungen](dlt/blockchain/anwendungen/README.md)
-    * [Anwendungsgebiete](dlt/blockchain/anwendungen/anwendungsgebiete.md)
-    * [Smart Contracts](dlt/blockchain/anwendungen/smart-contracts.md)
-    * [Use-Case Assessment](dlt/blockchain/anwendungen/use-case-assessment.md)
+  * [Anwendungsgebiete](dlt/blockchain/anwendungsgebiete.md)
+  * [Smart Contracts](dlt/blockchain/smart-contracts.md)
 * [Distributed Ledger Technologien](dlt/distributed-ledger-technologien/README.md)
   * [Geschichte](dlt/distributed-ledger-technologien/geschichte.md)
   * [Definition](dlt/distributed-ledger-technologien/definition.md)
@@ -49,8 +47,8 @@
   * [Definition](digital-assets/kryptowaehrungen/definition.md)
   * [Arten](digital-assets/kryptowaehrungen/arten.md)
   * [Projekte](digital-assets/kryptowaehrungen/projekte/README.md)
-    * [Ether](digital-assets/kryptowaehrungen/projekte/ether.md)
     * [Bitcoin](digital-assets/kryptowaehrungen/projekte/bitcoin.md)
+    * [Ether](digital-assets/kryptowaehrungen/projekte/ether.md)
     * [Monero](digital-assets/kryptowaehrungen/projekte/monero.md)
 * [Digital Assets](digital-assets/digital-assets/README.md)
   * [Geschichte](digital-assets/digital-assets/geschichte.md)
