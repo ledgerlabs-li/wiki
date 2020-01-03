@@ -11,21 +11,16 @@ Im Learning Center findest Du alle Informationen zu Blockchain und Distributed L
 ## Inhalte
 
 1. Grundlagen
-   * Peer-to-Peer Netzwerke
-   * Kryptografie
-   * Konsens-Mechanismen
+   * [Peer-to-Peer Netzwerke](https://lab.ledgerlabs.li/grundlagen/peer-to-peer)
+   * [Kryptografie](https://lab.ledgerlabs.li/grundlagen/kryptografie)
+   * [Konsens-Mechanismen](https://lab.ledgerlabs.li/grundlagen/konsens-mechanismen)
 2. Blockchain
-   * Geschichte
+   * Hintergrund
    * Definition
-   * Mythen
    * Anwendungsgebiete
-   * Smart Contracts
-   * DApps
 3. Distributed Ledger Technologien
+   * Hintergrund
    * Definition
-   * Public Ledgers
-   * Private Ledgers
-   * Andere DLT Formen
    * Projekte
 4. Technologie-Stack
    * Infrastruktur
@@ -34,13 +29,15 @@ Im Learning Center findest Du alle Informationen zu Blockchain und Distributed L
    * Applikationen
    * Governance
 5. Decentralized Finance \(DeFi\)
+   * Hintergrund
    * Definition
    * Anwendungsgebiete
 6. Kryptowährungen
-   * Geschichte
+   * Hintergrund
    * Definition
    * Projekte
 7. Digitale Assets
+   * Hintergrund
    * Definition
    * Projekte
 
