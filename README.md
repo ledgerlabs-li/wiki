@@ -46,9 +46,9 @@ Im Learning Center findest Du alle Informationen zu Blockchain und Distributed L
 ### Dieses Wiki bearbeiten 
 
 * Fühlen Dich frei, zu jedem Teil dieses Wikis beizutragen - Beiträge sind sehr willkommen! 
-* Bitte Achte darauf, alle Quellen Deiner Informationen nach [APA Richtlinien](https://www.scribbr.de/apa-standard/verweise-im-text-laut-apa-standard/) anzugeben und im Quellenverzeichnis beizufügen [\(zum APA Generator\)](https://www.scribbr.de/zitieren/apa-generator/?scr_source=knowledgebase&scr_medium=in-text&scr_campaign=apa-generator-kostenlos&frm=#/).
-* Repo: [https://github.com/distributed-governance/wiki ](https://github.com/ledgerlabs-li/wiki)- offen für Beiträge \([Pull Request Tutorial](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)\)
-* Die Diskussion kann im GitHub Repo stattfinden
+* Bitte Achte darauf, alle Quellen Deiner Informationen nach [APA Richtlinien](https://www.scribbr.de/apa-standard/verweise-im-text-laut-apa-standard/) anzugeben und im [Quellenverzeichnis ](https://github.com/ledgerlabs-li/wiki/blob/master/quellen.md)beizufügen [\(zum APA Generator\)](https://www.scribbr.de/zitieren/apa-generator/?scr_source=knowledgebase&scr_medium=in-text&scr_campaign=apa-generator-kostenlos&frm=#/).
+* Repo: [https://github.com/ledgerlabs-li/wiki](https://github.com/ledgerlabs-li/wiki) - offen für Beiträge \([Pull Request Tutorial](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)\)
+* Die Diskussion kann im GitHub Repo stattfinden.
 
 
 
