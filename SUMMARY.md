@@ -5,7 +5,7 @@
 
 ## Grundlagen
 
-* [Peer-to-Peer Netzwerke](grundlagen/peer-to-peer-netzwerke.md)
+* [Peer-to-Peer Netzwerke](grundlagen/peer-to-peer.md)
 * [Kryptografie](grundlagen/kryptografie/README.md)
   * [Asymmetrische Verschlüsselung](grundlagen/kryptografie/assmyetrische-verschluesselung.md)
   * [Hash-Algorithmen](grundlagen/kryptografie/hash-algorithmen.md)
@@ -17,7 +17,7 @@
 ## Blockchain & DLT <a id="dlt"></a>
 
 * [Blockchain](dlt/blockchain/README.md)
-  * [Geschichte](dlt/blockchain/geschichte.md)
+  * [Hintergrund](dlt/blockchain/hintergrund.md)
   * [Definition](dlt/blockchain/definition.md)
   * [Mythen](dlt/blockchain/mythen.md)
   * [Anwendungsgebiete](dlt/blockchain/anwendungsgebiete.md)
@@ -32,24 +32,24 @@
     * [Ethereum](dlt/distributed-ledger-technologien/projekte/ethereum.md)
     * [Hyperledger](dlt/distributed-ledger-technologien/projekte/hyperledger.md)
     * [Corda](dlt/distributed-ledger-technologien/projekte/corda.md)
-* [Technology Stack](technology/README.md)
-  * [Infrastruktur](technology/infrastruktur.md)
-  * [Protokoll](technology/protokoll.md)
-  * [Services](technology/services.md)
-  * [Applikationen](technology/applikationen.md)
-  * [Governance](technology/governance.md)
+* [Technologie Stack](technologie/README.md)
+  * [Infrastruktur](technologie/infrastruktur.md)
+  * [Protokoll](technologie/protokoll.md)
+  * [Services](technologie/services.md)
+  * [Applikationen](technologie/applikationen.md)
+  * [Governance](technologie/governance.md)
 
-## Digital Assets
+## Decentralized Finance <a id="defi"></a>
 
-* [Kryptowährungen](digital-assets/kryptowaehrungen/README.md)
-  * [Geschichte](digital-assets/kryptowaehrungen/geschichte.md)
-  * [Definition](digital-assets/kryptowaehrungen/definition.md)
-  * [Projekte](digital-assets/kryptowaehrungen/projekte/README.md)
-    * [Bitcoin](digital-assets/kryptowaehrungen/projekte/bitcoin.md)
-    * [Ether](digital-assets/kryptowaehrungen/projekte/ether.md)
-    * [Monero](digital-assets/kryptowaehrungen/projekte/monero.md)
-* [Digital Assets](digital-assets/digital-assets/README.md)
-  * [Geschichte](digital-assets/digital-assets/geschichte.md)
-  * [Definition](digital-assets/digital-assets/definition.md)
-  * [Arten](digital-assets/digital-assets/arten.md)
+* [DeFi](defi/defi.md)
+* [Kryptowährungen](defi/kryptowaehrungen/README.md)
+  * [Hintergrund](defi/kryptowaehrungen/hintergrund.md)
+  * [Definition](defi/kryptowaehrungen/definition.md)
+  * [Projekte](defi/kryptowaehrungen/projekte/README.md)
+    * [Bitcoin](defi/kryptowaehrungen/projekte/bitcoin.md)
+    * [Ether](defi/kryptowaehrungen/projekte/ether.md)
+    * [Monero](defi/kryptowaehrungen/projekte/monero.md)
+* [Digital Assets](defi/digital-assets/README.md)
+  * [Definition](defi/digital-assets/definition.md)
+  * [Projekte](defi/digital-assets/projekte.md)
 

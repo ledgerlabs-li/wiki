@@ -1,4 +1,4 @@
-# Geschichte
+# Hintergrund
 
 ## Geschichte des Internets
 
