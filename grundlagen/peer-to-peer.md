@@ -12,7 +12,7 @@ Das prominenteste Beispiel für ein reines P2P-System ist der Bitcoin. Im Whitep
 
 #### Vorteile von P2P-Systemen
 
-* Freiheit - keine zentrale Authorität
+* Freiheit - keine zentrale Autorität
 * Schnelle Interaktionen zwischen den Netzwerkteilnehmern
 * Kein Single Point of Failure
 * Verteilung von Macht

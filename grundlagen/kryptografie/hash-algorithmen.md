@@ -6,7 +6,7 @@ Wie in der Abbildung ersichtlich führt bereits eine geringfügige Änderung des
 
 ![](../../.gitbook/assets/hash-funktion.png)
 
-Hash-Funktionen wie SHA256 \(Secure Hash Algorithmus\) sind normalerweise Open-Source. Das bedeutet, dass jeder versuchen kann, den Algorithmus zu knacken. Hash-Algorithmen welche bereits lange bestehen und noch von niemandem erfolgreich 
+Hash-Funktionen wie SHA256 \(Secure Hash Algorithmus\) sind normalerweise Open-Source. Das bedeutet, dass jeder versuchen kann, den Algorithmus zu knacken. Hash-Algorithmen welche bereits lange bestehen und noch von niemandem gebrochen werden konnten, gelten daher als sicher. 
 
 {% hint style="success" %}
 _**TIPP**_ Ein nützliches Tool, um Hash-Funktionen besser zu verstehen bietet die Webseite [https://anders.com/blockchain/hash](https://anders.com/blockchain/hash
