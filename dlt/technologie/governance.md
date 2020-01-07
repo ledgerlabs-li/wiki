@@ -1,4 +1,4 @@
-# DeFi
+# Governance
 
 ## Dieser Artikel wurde noch nicht erstellt. 
 

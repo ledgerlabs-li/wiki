@@ -1,4 +1,4 @@
-# DeFi
+# Applikationen
 
 ## Dieser Artikel wurde noch nicht erstellt. 
 

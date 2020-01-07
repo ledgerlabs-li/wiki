@@ -1,4 +1,4 @@
-# DeFi
+# Technologie Stack
 
 ## Dieser Artikel wurde noch nicht erstellt. 
 

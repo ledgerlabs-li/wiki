@@ -1,4 +1,4 @@
-# DeFi
+# Infrastruktur
 
 ## Dieser Artikel wurde noch nicht erstellt. 
 

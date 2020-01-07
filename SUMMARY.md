@@ -32,12 +32,12 @@
     * [Ethereum](dlt/distributed-ledger-technologien/projekte/ethereum.md)
     * [Hyperledger](dlt/distributed-ledger-technologien/projekte/hyperledger.md)
     * [Corda](dlt/distributed-ledger-technologien/projekte/corda.md)
-* [Technologie Stack](technologie/README.md)
-  * [Infrastruktur](technologie/infrastruktur.md)
-  * [Protokoll](technologie/protokoll.md)
-  * [Services](technologie/services.md)
-  * [Applikationen](technologie/applikationen.md)
-  * [Governance](technologie/governance.md)
+* [Technologie Stack](dlt/technologie/README.md)
+  * [Infrastruktur](dlt/technologie/infrastruktur.md)
+  * [Protokoll](dlt/technologie/protokoll.md)
+  * [Services](dlt/technologie/services.md)
+  * [Applikationen](dlt/technologie/applikationen.md)
+  * [Governance](dlt/technologie/governance.md)
 
 ## Decentralized Finance <a id="defi"></a>
 

@@ -1,4 +1,4 @@
-# DeFi
+# Protokoll
 
 ## Dieser Artikel wurde noch nicht erstellt. 
 
