@@ -4,3 +4,5 @@ Die Blockchain-Technologie welche mit dem Bitcoin ihren Ursprung fand besteht im
 
 ![](../../.gitbook/assets/digital-fingerprint.PNG)
 
+
+
