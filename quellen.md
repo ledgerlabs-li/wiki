@@ -24,6 +24,8 @@ Hu, A. \(2019, April 24\). WTF is peer-to-peer? \[Blog post\]. Abgerufen 2. Janu
 
 Hosp, J. \(2018\). Blockchain 2.0: einfach erklärt – weit mehr als nur Bitcoin. München, Deutschland: FinanzBuch Verlag.
 
+Kranz, S. & Klugow, C. \(2019, 11. Juli\). Anwendungen und Potenziale der Blockchain Technologie. Abgerufen von [https://medium.com/mm1consulting/anwendungen-und-potenziale-der-blockchain-technologie-cf8192161484](https://medium.com/mm1consulting/anwendungen-und-potenziale-der-blockchain-technologie-cf8192161484)
+
 Lockyer, M. \(2018, 22. Juni\). Designing Multi-Token Economies. Abgerufen 18. Februar, 2019, von [https://hackernoon.com/designing-multi-token-economies-7c7f39916e?gi=89391e2312a6](https://hackernoon.com/designing-multi-token-economies-7c7f39916e?gi=89391e2312a6) 
 
 Merkle, R. C. \(2012\). Protocols for public key cryptosystems. Proceedings - IEEE Symposium on Security and Privacy. [https://doi.org/10.1109/SP.1980.10006](https://doi.org/10.1109/SP.1980.10006)
