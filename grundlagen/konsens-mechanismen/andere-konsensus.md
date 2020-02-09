@@ -21,7 +21,7 @@ In DPoS stimmen die Inhaber von Token nicht selbst über die Gültigkeit der Bl�
 
 Proof-of-Authority ist ein Konsensverfahren, bei dem Transaktionen durch genehmigte Benutzer validiert werden, ähnlich wie Systemadministratoren. Diese Konten stellen die Instanz dar, von der andere Knoten ihre Wahrheit erhalten. PoA hat einen hohen Durchsatz von Transaktionen und ist für private Netzwerke optimiert. PoA wird meist nicht in einer öffentlichen Blockchain verwendet, da es sich um eine zentralisierte Lösung handelt. \(Whiterspoon, 2018\)
 
-###  **Byzantine Fault Tolerance \(BFT\)**
+### **Byzantine Fault Tolerance \(BFT\)**
 
 Die byzantinische Fehlertoleranz \(BFT\) ist die Eigenschaft eines Systems, das in der Lage auch dann zu funktionieren, wenn einige der Knoten ausfallen oder böswillig handeln. In anderen Worten muss die Mehrheit der Teilnehmer innerhalb eines verteilten Netzwerks sich einigen um einen Totalausfall zu vermeiden. Dafür werden mindestens ⅔ ehrliche Netzwerkknoten benötigt. Wenn die Mehrheit des Netzwerks beschliesst, böswillig zu handeln, ist das System angreifbar. \(Binance, 2019\)
 
