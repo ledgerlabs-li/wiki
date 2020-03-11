@@ -1,21 +1,26 @@
 # Proof-of-Work
 
-Proof-of-Work \(PoW\) war der erste Konsens-Algorithmus einer Blockchain. Satoshi Nakamoto \(2008\) hat den PoW-Algorithmus von Back \(2002\) für den Einsatz in der Bitcoin-Blockchain übernommen. Dem PoW-Algorithmus verdanken wir nicht nur die hohe Sicherheit der Bitcoin Transaktionen, sondern auch die Mining-Aktivitäten und den damit einhergehenden Stromverbrauch. PoW ist bei einer grossen Anzahl Netzwerkknoten ein sehr zuverlässiges aber ineffizientes System zur Validierung von Transaktionen. Aufgrund dieser Ineffizienzen arbeiten zu diesem Zeitpunkt zahlreiche Organisationen an effizienteren Mechanismen, mit dem Ziel möglichst wenig der Sicherheit des PoW aufgeben zu müssen. Ein Beispiel dafür stellt das Ethereum-Projekt dar welches einen Wechsel vom PoW-Algorithmus zum Energieeffizienten und wirtschaftlichen Proof-of-Stake \(PoS\)-Algorithmus plant \(Whiterspoon, 2018\).
+Ein Konsens-Mechanismus ist ein Protokoll, das in einer Blockchain sicherstellt, dass alle Netzwerkknoten miteinander synchronisiert werden. Das Protokoll definiert die Regeln, nach welchen sich die Netzwerkteilnehmer darauf einigen, welche Transaktionen legitim sind und der Blockchain angefügt werden. Am weitesten verbreitet sind dabei der Proof-of-Work \(PoW\) und Proof-of-Stake\(PoS\) Konsensus.
+
+Proof-of-Work \(PoW\) war der erste Konsens-Algorithmus einer Blockchain. Satoshi Nakamoto \(2008\) hat den PoW-Algorithmus von Back \(2002\) für den Einsatz in der Bitcoin-Blockchain übernommen. Dem PoW-Algorithmus verdanken wir nicht nur die hohe Sicherheit der Bitcoin Transaktionen, sondern auch die Mining-Aktivitäten und den damit einhergehenden Stromverbrauch. PoW ist bei einer grossen Anzahl Netzwerkknoten ein sehr zuverlässiges aber ineffizientes System zur Validierung von Transaktionen. Aufgrund dieser Ineffizienzen arbeiten Forscher aktuell an anderen Möglichkeiten in einem dezentralen System manipulationssicher einen Konsens zu finden. Ein Beispiel dafür ist das Ethereum-Projekt. Durch einen Wechsel von PoW zu PoS soll die Skalierbarkeit und die Effizienz der Smart Contract-Plattform erhöht werden \(Whiterspoon, 2018\).
 
 ## Wie funktioniert der PoW?
 
-In PoW lösen sogenannte Miner schwierige kryptografische Rätsel, um zu beweisen, dass eine gewisse Menge an Rechenleistung aufgewendet wurde, um Transaktionen zu validieren. Alle Miner arbeiten simultan an derselben Aufgabe und stehen im Wettbewerb zueinander. Findet einer der Miner eine Lösung, teilt er diese mit dem gesamten Netzwerk und ein neuer Transaktionsblock wird generiert. Nach der Prüfung der Lösung durch die anderen Miner erhält er eine Belohnung für die korrekte Antwort. Die Miner versuchen nun den nächsten Transaktionsblock zu lösen, welcher auf dem vorhergehenden basiert.
+Im PoW lösen die sogenannten Miner komplexe mathematische Aufgaben, die viel Rechenleistung erfordern. Der erste, der die Aufgabe löst, erstellt einen Block aus Transaktionen und erhält im Gegenzug eine Belohnung. Je mehr Rechenleistung ein Miner aufbringt, desto grösser ist die Wahrscheinlichkeit, dass er einen Block erstellen kann. \(Blokgenic, 2018\)
 
- Proof-of-Work gewährleistet somit chronologische Ordnung von Transaktionsblöcken. Die Miner vertrauen dabei immer derjenigen Blockchain, die am längsten ist. Das heisst, sie schenken derjenigen Transaktionskette, in die bereits die meiste Rechenarbeit geflossen ist ihr Vertrauen. Eine Datenmanipulation wird dadurch extrem rechenintensiv und bedarf mehr als 50 Prozent der Rechenleistung des gesamten Netzwerks. Stark dezentralisierte Blockchains, welche den PoW-Algorithmus verwenden, werden deshalb als nicht manipulierbar angesehen.
+Alle Miner arbeiten simultan an derselben Aufgabe und stehen für deren Lösung im Wettbewerb zueinander. Findet einer der Miner eine Lösung, teilt er diese mit dem gesamten Netzwerk und ein neuer Transaktionsblock wird erstellt. Die übrigen Miner überprüfen die Lösung und derjenige, der den Block gelöst hat erhält dafür eine Belohnung. Er hat bewiesen, Rechenleistung aufgewendet zu haben, um die Aufgabe zu lösen und somit den Block zu erstellen - daher stammt auch der Begriff “Proof-of-Work”. Die Miner versuchen nun den nächsten Transaktionsblock zu lösen, welcher auf dem vorhergehenden basiert. Die Transaktionsblöcke werden dadurch in chronologischer Reihenfolge miteinander verkettet, weshalb man von einer Blockkette spricht - die Blockchain.
+
+Durch die Verkettung der Transaktionsblöcke wird erreicht, dass eine Manipulation der Transaktionen sich wirtschaftlich nicht lohnen kann. Die Miner vertrauen immer der längsten Blockchain, da in diese am meisten Rechenarbeit geflossen ist. Eine Datenmanipulation wird dadurch extrem rechenintensiv und kann nur mit mehr als 50 Prozent der Rechenleistung des gesamten Netzwerks bewerkstelligt werden. Stark dezentralisierte PoW-Blockchains, mit einer grossen Anzahl an Minern können daher als nicht manipulierbar angesehen werden.  
+
 
 ![Proof-of-Work in 6 Schritten](../../.gitbook/assets/pow.PNG)
 
-1. **Transaktion**: Neue, unverifzierte Transaktionen werden durch die Netzwerkknoten geteilt \(Broadcast\).
+1. **Transaktion:** Neue,  nicht verifzierte Transaktionen werden durch die Netzwerkknoten geteilt \(Broadcast\).
 2. **Verbinden:** Die Miner verbinden sich mit der Sammlung aller Transaktionsdaten \(Mempool\), um diese zu verifizieren.
-3. **Validieren:** Transaktionen werden ausgewählt, validiert und einem Block zugeordnet.
+3. **Validieren:** Die Transaktionen werden ausgewählt, validiert und einem Block zugeordnet.
 4. **Verketten:** Die Miner erweitern jeweils die längste Kette, in welche bereits am meisten Rechenleistung geflossen ist.
-5. **Rätsel:** Die Miner lösen das Proof-of-Work-Rätsel bzw. suchen nach einem bestimmten Wert, der auf dem vorherigen Block basiert.
-6. **Bestätigen:** Sobald ein Miner das Rätsel löst, teilt er die Lösung mit dem Netzwerk und wird dafür entlohnt. Der Block wird zur Blockchain hinzugefügt.
+5. **Rätsel:** Die Miner lösen das Proof-of-Work-Rätsel bzw. suchen nach einer Lösung \(Hash\), der auf dem vorherigen Block basiert.
+6. **Bestätigen:** Sobald ein Miner die Aufgabe gelöst hat, teilt er die Lösung mit dem Netzwerk und wird dafür entlohnt. Der Block wird zur Blockchain hinzugefügt. 
 
 ## Technische Funktionsweise
 

@@ -10,6 +10,8 @@ Blockchain Hub. \(2019\). What is an ICO? Initial Coin Offering - Blockchain Tok
 
 Blockgeeks. \(2019, November 14\). What Are Dapps? The New Decentralized Future. Abgerufen 2. Januar 2020, von [https://blockgeeks.com/guides/dapps/](https://blockgeeks.com/guides/dapps/)
 
+Blockgenic. \(2018, November 10\). Different Blockchain Consensus Mechanisms. Abgerufen von [https://hackernoon.com/different-blockchain-consensus-mechanisms-d19ea6c3bcd6](https://hackernoon.com/different-blockchain-consensus-mechanisms-d19ea6c3bcd6)
+
 Busby, M. \(2018, 1. Februar\). Blockchain is this year's buzzword - but can it outlive the hype? Abgerufen 3. März, 2019, von [https://www.theguardian.com/technology/2018/jan/30/blockchain-buzzword-hype-open-source-ledger-bitcoin](https://www.theguardian.com/technology/2018/jan/30/blockchain-buzzword-hype-open-source-ledger-bitcoin) 
 
 Buterin, V. \(2018, Juli 24\). The Meaning of Decentralization \[Blogpost\]. Abgerufen 2. Januar 2020, von [https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
@@ -19,6 +21,8 @@ BTC-ECHO. \(2019, 17. April\).Was ist ein STO \(Security Token Offering\)? Abger
 Di Giorgio, C., & Lewrick, M. \(2018\). Live aus dem Krypto-Valley: Blockchain, Krypto und die neuen Business Ökosysteme. 
 
 Haber, S. & Stornetta, W. S. \(1997\). Secure names for bit-strings. Proceedings of the ACM Conference on Computer and Communications Security, 28–35.
+
+Hays, D. \(2020, Februar 13\). Consensus Mechanisms. Abgerufen von [https://cryptoresearch.report/crypto-research/consensus-mechanisms/](https://cryptoresearch.report/crypto-research/consensus-mechanisms/)
 
 Hu, A. \(2019, April 24\). WTF is peer-to-peer? \[Blog post\]. Abgerufen 2. Januar 2020, von [https://medium.com/blockchain-beat/wtf-is-peer-to-peer-4b865d29e44e](https://medium.com/blockchain-beat/wtf-is-peer-to-peer-4b865d29e44e)
 

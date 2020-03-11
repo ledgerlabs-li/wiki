@@ -9,9 +9,9 @@ Neben PoW und PoS gibt es in der Praxis noch zahlreiche weitere Konsens-Mechanis
 * Byzantine fault tolerance \(Hyperledger\)
 * Proof of authority \(VeChain, Corda\)
 
-Gemäss einer Untersuchung von Hays und Valek \(2018\) sind unter den Top 100 Kryptowährungen PoW und PoS bzw. eine hybride Lösung aus beiden Mechanismen am weitesten verbreitet. Nachfolgend werden die gängigsten Alternativen kurz erläutert.
+Gemäss einer Untersuchung von Hays \(2018\) sind unter den Top 100 Kryptowährungen PoW und PoS bzw. eine hybride Lösung aus beiden Mechanismen am weitesten verbreitet. Nachfolgend werden die gängigsten Alternativen kurz erläutert.
 
-![Eigne Darstellung. In Anlehnung an Hays und Valek \(2018\).](../../.gitbook/assets/other-consensus.png)
+![Eigne Darstellung. In Anlehnung an Hays \(2018\).](../../.gitbook/assets/other-consensus.png)
 
 ### **Delegated Proof-of-Stake \(DPoS\)**
 
