@@ -2,6 +2,8 @@
 
 ## Geschichte des Internets
 
+
+
 ![Geschichte des Internets. Eigene Darstellung in Anlehnung an Voshmgir \(2019\).](../../.gitbook/assets/history-of-the-internet.png)
 
 ## Zentrale vs. Dezentrale Systeme
