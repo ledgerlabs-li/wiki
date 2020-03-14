@@ -1,4 +1,4 @@
-# Quellen
+# References
 
 Antonopoulos, A. M. \(2014\). Mastering Bitcoin: unlocking digital cryptocurrencies. " O'Reilly Media, Inc.".
 
