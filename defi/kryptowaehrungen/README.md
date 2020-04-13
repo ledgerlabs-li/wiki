@@ -1,4 +1,10 @@
 # Kryptowährungen
 
-Digital currency that is based on mathematics and uses encryption techniques to regulate the creation of units of currency as well as verifying the transfer of funds. Cryptocurrencies operate independently of a central bank.
+## Inhalt
+
+1. [Hintergrund](https://lab.ledgerlabs.li/defi/kryptowaehrungen/hintergrund)
+2. [Definition](https://lab.ledgerlabs.li/defi/kryptowaehrungen/definition)
+3. [Projekte](https://lab.ledgerlabs.li/defi/kryptowaehrungen/projekte)
+
+![](../../.gitbook/assets/analysis.png)
 
