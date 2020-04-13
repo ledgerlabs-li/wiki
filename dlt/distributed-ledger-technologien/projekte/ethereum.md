@@ -4,6 +4,8 @@ description: Eine globale Open Source Plattform für dezentrale Applikationen
 
 # Ethereum
 
+## Hintergrund
+
 **Im Jahr 2014 hat Vitalik Buterin, ein russisch-kanadischer Software-Entwickler, Ethereum entwickelt. Aufbauend auf der Blockchain-Technologie von Satoshi beschreibt er eine Plattform für dezentrale Anwendungen, die intelligente Verträge für automatisierte Interaktionen zwischen den Netzwerkteilnehmern nutzen \(Buterin, 2014\).**
 
 Der Technologie-Stack von Ethereum lässt sich dabei in drei Schichten unterteilen. Die erste Ebene besteht aus einem grossen Netzwerk von Computern, die Transaktionen verarbeiten und eine geteilte Datenbank laufend aktualisieren - die Rede ist von der Ethereum-Blockchain. Zweitens sind Entwickler in der Lage, Programme auszuführen, die regelbasierte und manipulationssichere Interaktionen auf der Ethereum-Blockchain ermöglichen. Diese werden auch als [Smart Contracts ](https://lab.ledgerlabs.li/dlt/blockchain/anwendungsgebiete/smart-contracts)bezeichnet. Durch die Verwendung von Smart Contracts in Verbindung mit der unveränderlichen Erfassung von Transaktionen werden [dezentrale Anwendungen \(dApps\)](https://lab.ledgerlabs.li/dlt/blockchain/anwendungsgebiete/dapps) möglich. Als dritte Ebene umfasst diese Applikationsebene verschiedene Dienste, die auf dem Ethereum-Netzwerk bereitgestellt werden. Da solche Anwendungen dezentralisiert sind und vordefinierten Regeln von Smart Contracts folgen, gibt es keine zentrale Fehlerquelle. Infolgedessen kann niemand eine dApp einfach ausschalten. \(D'Aliessi, 2018\)   

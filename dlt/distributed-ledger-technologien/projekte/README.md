@@ -1,6 +1,10 @@
 # Projekte
 
-## Dieser Artikel wurde noch nicht erstellt. 
+## Inhalt
 
-Du kennst Dich aus mit dem Themengebiet und kannst Deine Aussagen mit wissenschaftlichen Quellen belegen? Dann teil Dein Wissen mit der Community und bearbeite diesen Artikel auf GitHub.
+1. [Ethereum](https://lab.ledgerlabs.li/dlt/distributed-ledger-technologien/projekte/ethereum)
+2. [Hyperledger](https://lab.ledgerlabs.li/dlt/distributed-ledger-technologien/projekte/hyperledger)
+3. [Corda](https://lab.ledgerlabs.li/dlt/distributed-ledger-technologien/projekte/corda)
+
+![](../../../.gitbook/assets/blockchain.png)
 
