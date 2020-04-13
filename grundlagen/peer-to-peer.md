@@ -24,14 +24,3 @@ Das prominenteste Beispiel für ein reines P2P-System ist der Bitcoin. Im Whitep
 * Schwer mit geltenden Gesetzen vereinbar
 * Ineffiziente Enscheidungsfindung
 
-## Dezentralisierung
-
-Im Zusammenhang mit Peer-to-Peer Netzwerken wird oft von Dezentralisierung gesprochen. Da der Begriff der Dezentralisierung oft inflationär und falsch angewendet wird, unterscheidet Buterin \(2018\) zwischen drei Arten der Dezentralisierung:
-
-1. Politische Dezentralisierung
-2. Architektonische Dezentralisierung
-3. Logische Dezentralisierung
-
-Gemäss Buterin \(2018\) sind Blockchain-Systeme politisch dezentralisiert. Das heisst, sie werden von niemandem kontrolliert. Durch global verteilte Netzwerkknoten sind diese ebenfalls dezentral aufgebaut \(architektonische Dezentralisierung\), wodurch es keinen Single Point of Failure gibt. In Bezug auf die Logik sind Blockchain-Systeme hingegen stark zentralisiert. Im Blockchain Protokoll manifestieren sich die Regeln nach welchen im P2P-System gehandelt wird bzw. wie das System aufgebaut ist. Wie in der Vergangenheit gezeigt wurde, ergibt sich dadurch beispielsweise bei Bitcoin oder Ethereum die Herausforderung wie in einem dezentralen System Änderungen vorgenommen werden. Aus diesem Grund beschäftigen sich aktuell viele Forscher mit der Governance von Blockchain-Systemen.  
-
-

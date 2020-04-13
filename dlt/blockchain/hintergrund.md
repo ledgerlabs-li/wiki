@@ -2,15 +2,21 @@
 
 ## Geschichte der Blockchain Technologie
 
-Laut The Guardian ist Blockchain das Buzzword des Jahres 2018 \(Busby, 2018\). Betrachtet man jedoch die Gesamtmarktkapitalisierung von Kryptowährungen, die Anfang Dezember 2018 von 831 Mrd. auf 134 Mrd gesunken ist, so muss neben den Kryptowährungen auch etwas mehr am Blockchain-Hype dran sein \(vgl. coinmarketcap.com\). 
-
-Satoshi Nakamoto \(2008\) hat mit dem Whitepaper "Bitcoin: A Peer-to-Peer Electronic Cash System" erstmals das Problem der doppelten Ausgaben \(double spending\) für digitale Vermögenswerte gelöst. Die zugrundeliegende Technologie hinter Bitcoin - die Blockchain - ermöglicht durch eine unveränderbare, verteilt gespeicherte und öffentliche Liste aller Transaktionen, dass digitale Vermögenswerte nicht mehrfach ausgegeben werden können. \(Lewrick und Di Giorgio, 2018, S. 23\)
+**Schon lange vor dem Aufkommen von Blockchain und Kryptowährungen existierte die Grundlage dieser Technologien bereits. So war beispielsweise Bitcoin nicht der erste Schritt auf dem Weg zu digitalem Geld. Die Forschungsarbeit an der zugrunde liegenden Kryptographie begann schon in den 1940er Jahren. Mit der Open-Source-Bewegung in den 1980er Jahren fanden die ersten Ansätze für digitales Geld und die verteilte Datenverarbeitung ihren Anfang \(Herweijer et al., 2018\). Später im Jahr 2008 veröffentlichte jemand unter dem Pseudonym Satoshi Nakamoto ein Whitepaper über eine reine Peer-to-Peer-Version von digitalem Geld - genannt Bitcoin \(Nakamoto, 2008\). Durch die Kombination von Kryptographie, verteilter Datenverarbeitung und Peer-to-Peer-Netzwerken etablierte Bitcoin ein unveränderliches System zur Aufzeichnung von Interaktionen, ohne dass eine dritte Partei wie eine Bank benötigt wird.**   
 
 
+Wenn alle Komponenten der Blockchain-Technologie bereits existierten, warum ist diese dann besonders? Der einfachste Weg, diesen revolutionären Schritt, zu erklären, ist der Vergleich mit dem Internet. In seiner frühesten Version \(Web 1.0\) war das Internet ein Ort zur Beschaffung von Informationen. In den nachfolgenden Jahren wurde das Internet zunehmend zu einem Interaktionsmedium. Die Architektur des Web 2.0 ermöglichte es den Nutzern, Informationen zu senden und zu empfangen. Im Jahr 1995 war das Internet demnach ein Medium zum Austausch von Informationen - zum Beispiel durch das Versenden einer E-Mail. \(Voshmgir, 2019\)  
 
 
+Mit der Blockchain-Technologie treten wir in die dritte Ära des Internets ein \(O'Dair, 2018\). Vor der Erfindung von Bitcoin war die Übertragung von Werten an andere Parteien über das Internet aufgrund des Double-Spending-Problems nicht möglich. Das Double-Spending-Problem ist ein grundlegender Konflikt, der bei digitalen Vermögenswerten auftritt. Im Gegensatz zum Versenden einer E-Mail, bei der die Gegenpartei eine Kopie der Nachricht erhält, muss bei Vermögenswerten sichergestellt werden, dass das Original und nicht eine Kopie ausgetauscht wird.   
 
-![Geschichte der Blockchain. In Anlehnung an Rauchs et al. \(2018\)](../../.gitbook/assets/historyofbc%20%281%29.png)
+
+![Geschichte des Webs. Eigene Darstellung in Anlehnung an Voshmgir \(2019\)](../../.gitbook/assets/image%20%282%29.png)
+
+Neben der Möglichkeit, Werte über dezentralisierte Peer-to-Peer-Netzwerke auszutauschen, ermöglicht die dritte Generation des Webs auch die Automatisierung dieser Transaktionen. Im Jahr 2014 hat Vitalik Buterin, ein russisch-kanadischer Software-Entwickler, Ethereum entwickelt. Aufbauend auf der Blockchain-Technologie von Satoshi beschreibt er eine Plattform für dezentrale Anwendungen, die intelligente Verträge für automatisierte Interaktionen zwischen den Netzwerkteilnehmern nutzen \(Buterin, 2014\).
+
+  
+****
 
 ## Mythen
 
