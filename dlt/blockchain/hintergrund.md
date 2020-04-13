@@ -11,7 +11,7 @@ Wenn alle Komponenten der Blockchain-Technologie bereits existierten, warum ist 
 Mit der Blockchain-Technologie treten wir in die dritte Ära des Internets ein \(O'Dair, 2018\). Vor der Erfindung von Bitcoin war die Übertragung von Werten an andere Parteien über das Internet aufgrund des Double-Spending-Problems nicht möglich. Das Double-Spending-Problem ist ein grundlegender Konflikt, der bei digitalen Vermögenswerten auftritt. Im Gegensatz zum Versenden einer E-Mail, bei der die Gegenpartei eine Kopie der Nachricht erhält, muss bei Vermögenswerten sichergestellt werden, dass das Original und nicht eine Kopie ausgetauscht wird.   
 
 
-![Geschichte des Webs. Eigene Darstellung in Anlehnung an Voshmgir \(2019\)](../../.gitbook/assets/image%20%282%29.png)
+![Geschichte des Webs. Eigene Darstellung in Anlehnung an Voshmgir \(2019\)](../../.gitbook/assets/image%20%286%29.png)
 
 Neben der Möglichkeit, Werte über dezentralisierte Peer-to-Peer-Netzwerke auszutauschen, ermöglicht die dritte Generation des Webs auch die Automatisierung dieser Transaktionen. Im Jahr 2014 hat Vitalik Buterin, ein russisch-kanadischer Software-Entwickler, Ethereum entwickelt. Aufbauend auf der Blockchain-Technologie von Satoshi beschreibt er eine Plattform für dezentrale Anwendungen, die intelligente Verträge für automatisierte Interaktionen zwischen den Netzwerkteilnehmern nutzen \(Buterin, 2014\).
 
