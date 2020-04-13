@@ -6,6 +6,7 @@
 ## Grundlagen
 
 * [Peer-to-Peer Networks](grundlagen/peer-to-peer.md)
+* [Dezentralization](grundlagen/dezentralization.md)
 * [Cryptography](grundlagen/kryptografie/README.md)
   * [Asymmetric Encryption](grundlagen/kryptografie/assmyetrische-verschluesselung.md)
   * [Hash Algorithms](grundlagen/kryptografie/hash-algorithmen.md)
