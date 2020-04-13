@@ -1,6 +1,12 @@
+---
+description: Vom Tauschhandel bis zu Bitcoin
+---
+
 # Hintergrund
 
-## Dieser Artikel wurde noch nicht erstellt. 
+## Geschichte des Geldes
 
-Du kennst Dich aus mit dem Themengebiet und kannst Deine Aussagen mit wissenschaftlichen Quellen belegen? Dann teil Dein Wissen mit der Community und bearbeite diesen Artikel auf GitHub.
+![Vom Tauschhandel bis zu Bitcoin. Eigene Darstellung in Anlehnung an Hackernoon \(2018\)](../../.gitbook/assets/folienmaster.png)
+
+
 

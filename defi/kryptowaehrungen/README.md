@@ -1,6 +1,4 @@
 # Kryptowährungen
 
-## Dieser Artikel wurde noch nicht erstellt. 
-
-Du kennst Dich aus mit dem Themengebiet und kannst Deine Aussagen mit wissenschaftlichen Quellen belegen? Dann teil Dein Wissen mit der Community und bearbeite diesen Artikel auf GitHub.
+Digital currency that is based on mathematics and uses encryption techniques to regulate the creation of units of currency as well as verifying the transfer of funds. Cryptocurrencies operate independently of a central bank.
 

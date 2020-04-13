@@ -28,6 +28,8 @@ Di Giorgio, C., & Lewrick, M. \(2018\). Live aus dem Krypto-Valley: Blockchain, 
 
 Haber, S. & Stornetta, W. S. \(1997\). Secure names for bit-strings. Proceedings of the ACM Conference on Computer and Communications Security, 28–35.
 
+Hackernoon. \(2018, März 26\). The History of Money & the Future of Bitcoin and the Cryptocurrency Economy. Abgerufen von [https://hackernoon.com/the-history-of-money-the-future-of-bitcoin-and-the-cryptocurrency-economy-5cc25e808275](https://hackernoon.com/the-history-of-money-the-future-of-bitcoin-and-the-cryptocurrency-economy-5cc25e808275)
+
 Hays, D. \(2020, Februar 13\). Consensus Mechanisms. Abgerufen von [https://cryptoresearch.report/crypto-research/consensus-mechanisms/](https://cryptoresearch.report/crypto-research/consensus-mechanisms/)
 
 Herweijer, C., Waughray, D. & Warren, S. In World Economic Forum. \(2018\). Abgerufen von  [http://www3.weforum.org/docs/WEF\_Building-Blockchains.pdf](http://www3.weforum.org/docs/WEF_Building-Blockchains.pdf)
