@@ -38,7 +38,6 @@
   * [Protokoll](dlt/technologie/protokoll.md)
   * [Services](dlt/technologie/services.md)
   * [Applikationen](dlt/technologie/applikationen.md)
-  * [Governance](dlt/technologie/governance.md)
 
 ## Decentralized Finance <a id="defi"></a>
 
