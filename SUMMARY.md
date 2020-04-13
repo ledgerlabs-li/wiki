@@ -42,6 +42,10 @@
 
 ## Decentralized Finance <a id="defi"></a>
 
+* [DeFi](defi/defi/README.md)
+  * [Hintergrund](defi/defi/hintergrund.md)
+  * [Definition](defi/defi/definition.md)
+  * [Anwendungsgebiete](defi/defi/anwendungsgebiete.md)
 * [Kryptowährungen](defi/kryptowaehrungen/README.md)
   * [Hintergrund](defi/kryptowaehrungen/hintergrund.md)
   * [Definition](defi/kryptowaehrungen/definition.md)
@@ -49,10 +53,6 @@
     * [Bitcoin](defi/kryptowaehrungen/projekte/bitcoin.md)
     * [Ether](defi/kryptowaehrungen/projekte/ether.md)
     * [Monero](defi/kryptowaehrungen/projekte/monero.md)
-* [DeFi](defi/defi/README.md)
-  * [Hintergrund](defi/defi/hintergrund.md)
-  * [Definition](defi/defi/definition.md)
-  * [Anwendungsgebiete](defi/defi/anwendungsgebiete.md)
 * [Digital Assets](defi/digital-assets/README.md)
   * [Hintergrund](defi/digital-assets/hintergrund.md)
   * [Definition](defi/digital-assets/definition.md)
