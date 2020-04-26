@@ -1,10 +1,12 @@
 # Projekte
 
-## Inhalt
+{% page-ref page="ethereum.md" %}
 
-1. [Ethereum](https://lab.ledgerlabs.li/dlt/distributed-ledger-technologien/projekte/ethereum)
-2. [Hyperledger](https://lab.ledgerlabs.li/dlt/distributed-ledger-technologien/projekte/hyperledger)
-3. [Corda](https://lab.ledgerlabs.li/dlt/distributed-ledger-technologien/projekte/corda)
+{% page-ref page="hyperledger.md" %}
+
+{% page-ref page="corda.md" %}
+
+
 
 ![](../../../.gitbook/assets/blockchain.png)
 

@@ -40,6 +40,8 @@ Hosp, J. \(2018\). Blockchain 2.0: einfach erklärt – weit mehr als nur Bitcoi
 
 Kranz, S. & Klugow, C. \(2019, 11. Juli\). Anwendungen und Potenziale der Blockchain Technologie. Abgerufen von [https://medium.com/mm1consulting/anwendungen-und-potenziale-der-blockchain-technologie-cf8192161484](https://medium.com/mm1consulting/anwendungen-und-potenziale-der-blockchain-technologie-cf8192161484)
 
+Kranz, S., & Iten, R. \(2019, 3. Juli\). Die Token-Ökonomie. Abgerufen 26. August, 2019, von [https://medium.com/mm1consulting/die-token-%C3%B6konomie-5bf84a6eaa3b](https://medium.com/mm1consulting/die-token-%C3%B6konomie-5bf84a6eaa3b)
+
 Lockyer, M. \(2018, 22. Juni\). Designing Multi-Token Economies. Abgerufen 18. Februar, 2019, von [https://hackernoon.com/designing-multi-token-economies-7c7f39916e?gi=89391e2312a6](https://hackernoon.com/designing-multi-token-economies-7c7f39916e?gi=89391e2312a6) 
 
 Merkle, R. C. \(2012\). Protocols for public key cryptosystems. Proceedings - IEEE Symposium on Security and Privacy. [https://doi.org/10.1109/SP.1980.10006](https://doi.org/10.1109/SP.1980.10006)

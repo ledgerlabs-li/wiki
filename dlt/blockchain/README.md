@@ -1,10 +1,12 @@
 # Blockchain
 
-## Inhalt
+{% page-ref page="hintergrund.md" %}
 
-* [Hintergrund](https://lab.ledgerlabs.li/dlt/blockchain/hintergrund)
-* [Definition](https://lab.ledgerlabs.li/dlt/blockchain/definition)
-* [Anwendungsgebiete](https://lab.ledgerlabs.li/dlt/blockchain/anwendungsgebiete)
+{% page-ref page="definition.md" %}
+
+{% page-ref page="../distributed-ledger-technologien/projekte/" %}
+
+
 
 ![](../../.gitbook/assets/blockchain.png)
 

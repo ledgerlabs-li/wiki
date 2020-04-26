@@ -1,10 +1,12 @@
 # Distributed Ledger Technologien
 
-## Inhalt
+{% page-ref page="hintergrund.md" %}
 
-* [Hintergrund](https://lab.ledgerlabs.li/dlt/distributed-ledger-technologien/hintergrund)
-* [Definition](https://lab.ledgerlabs.li/dlt/distributed-ledger-technologien/definition)
-* [Projekte](https://lab.ledgerlabs.li/dlt/distributed-ledger-technologien/projekte)
+{% page-ref page="definition/" %}
+
+{% page-ref page="../../defi/kryptowaehrungen/projekte/" %}
+
+
 
 
 
