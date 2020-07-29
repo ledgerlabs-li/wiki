@@ -21,7 +21,6 @@ Im Learning Center findest Du alle Informationen zu Blockchain und Distributed L
    * [Protokoll](https://lab.ledgerlabs.li/technologie/protokoll)
    * [Services](https://lab.ledgerlabs.li/technologie/services)
    * [Applikationen](https://lab.ledgerlabs.li/technologie/applikationen)
-   * [Governance](https://lab.ledgerlabs.li/technologie/governance)
 5. Decentralized Finance \(DeFi\)
    * [Hintergrund](https://lab.ledgerlabs.li/defi/defi/hintergrund)
    * [Definition](https://lab.ledgerlabs.li/defi/defi/definition)

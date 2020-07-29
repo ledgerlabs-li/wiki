@@ -50,8 +50,6 @@
   * [Definition](defi/kryptowaehrungen/definition.md)
   * [Projekte](defi/kryptowaehrungen/projekte/README.md)
     * [Bitcoin](defi/kryptowaehrungen/projekte/bitcoin.md)
-    * [Ether](defi/kryptowaehrungen/projekte/ether.md)
-    * [Monero](defi/kryptowaehrungen/projekte/monero.md)
 * [Digital Assets](defi/digital-assets/README.md)
   * [Hintergrund](defi/digital-assets/hintergrund.md)
   * [Definition](defi/digital-assets/definition.md)

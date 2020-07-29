@@ -13,7 +13,7 @@ Dezentralisierte Applikationen \(DApps\) sind Anwendungen, die in einem P2P-Netz
 * **Sicher:** Bei dezentralen Applikationen gibt es keinen Single-Point-of-Failure. Transaktionen werden unveränderbar auf einer \(öffentlichen\) Blockchain gespeichert und kryptografisch gesichert.
 * **Anreize:** Viele DApps nutzen Tokens zur Gestaltung von Anreizen für die Nutzer der Applikation. Dabei kann es sich um native Kryptowährungseinheiten einer Blockchain handeln oder aber um spezifische Tokens für die jeweilige DApp.
 
-Es gibt eine grosse Vielfalt an DApps für unterschiedliche Anwendungsfällen. Sie können Spiele, Social-Media-Plattformen, Kryptowährungsbörsen oder auch Finanzanwendungen \(DeFi\) umfassen.
+Es gibt eine grosse Vielfalt an DApps für unterschiedliche Anwendungsfällen. Sie können Spiele, Social-Media-Plattformen, Kryptowährungsbörsen oder auch Finanzanwendungen [\(DeFi\)](https://lab.ledgerlabs.li/defi/defi) umfassen.
 
 {% hint style="success" %}
 **Tipp:** Auf der Webseite [https://www.stateofthedapps.com/de/dapps](https://www.stateofthedapps.com/de/dapps) findest Du eine Übersicht über existierende DApps für unterschiedliche Blockchain-/ Smart Contract-Plattformen.
