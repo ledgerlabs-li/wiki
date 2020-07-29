@@ -38,7 +38,6 @@
   * [Protocol](dlt/technologie/protokoll.md)
   * [Services](dlt/technologie/services.md)
   * [Applications](dlt/technologie/applikationen.md)
-  * [Governance](dlt/technologie/governance.md)
 
 ## Decentralized Finance <a id="defi"></a>
 
@@ -51,8 +50,6 @@
   * [Definition](defi/kryptowaehrungen/definition.md)
   * [Projects](defi/kryptowaehrungen/projekte/README.md)
     * [Bitcoin](defi/kryptowaehrungen/projekte/bitcoin.md)
-    * [Ether](defi/kryptowaehrungen/projekte/ether.md)
-    * [Monero](defi/kryptowaehrungen/projekte/monero.md)
 * [Digital Assets](defi/digital-assets/README.md)
   * [Background](defi/digital-assets/hintergrund.md)
   * [Definition](defi/digital-assets/definition.md)
