@@ -1,3 +1,7 @@
+---
+description: Dezentrale Applikationen
+---
+
 # Applikationen
 
 Da Smart Contracts oft im Hintergrund agieren, findet bei vielen Blockchain-Anwendungen die Interaktion mit dem Nutzer über eine dezentrale Applikation \(DApp\) statt. [DApps](https://lab.ledgerlabs.li/dlt/blockchain/anwendungsgebiete/dapps) sind demnach blockchainfähige User Interfaces. Smart Contracts hingegen stellen die Verbindung und Interaktion mit der Blockchain dar. Im Vergleich zu klassischen, zentralen Apps wie wir sie von unseren Smartphones kennen, basiert eine DApp auf dem dezentralen Backend der Blockchain. \(Kranz & Klugow, 2019\)

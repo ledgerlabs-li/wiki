@@ -1,3 +1,7 @@
+---
+description: Blockchain und DLT Protokolle
+---
+
 # Protokoll
 
 Im **Blockchain-Protokoll** wird definiert, wie Zugang und Privatsphäre im Netzwerk geregelt sind und wie das Netzwerk zu einer [Übereinstimmung](https://lab.ledgerlabs.li/grundlagen/konsens-mechanismen) bezüglich der stattgefundenen Transaktionen kommt . Aufbauend auf diesen Voraussetzungen können Unternehmen bestehende Plattformen nutzen, um[ Blockchain Services](https://lab.ledgerlabs.li/dlt/technologie/services) und Produkte zu erstellen. 
