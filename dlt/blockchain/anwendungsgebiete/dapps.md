@@ -1,8 +1,12 @@
+---
+description: Dezentrale Applikationen
+---
+
 # DApps
 
 ## In Kürze
 
-Dezentralisierte Applikationen \(DApps\) sind Anwendungen, die in einem P2P-Netzwerk von Computern statt auf einem einzelnen Computer laufen. Sie werden als eine Form von Software-Programmen betrachtet, die dazu bestimmt sind, im Internet zu funktionieren, ohne von einer zentralen Instanz kontrolliert zu werden. Wie eine traditionelle Applikation können DApps Front-End-Code und Benutzeroberflächen in jeder beliebigen Programmiersprache enthalten. Darüber werden dann Anfragen an das Blockchain-basierte Backend gestellt. \(Blockgeeks, 2018\)
+Dezentrale Applikationen \(DApps\) sind Anwendungen, die in einem P2P-Netzwerk von Computern statt auf einem einzelnen Computer laufen. Sie werden als eine Form von Software-Programmen betrachtet, die dazu bestimmt sind, im Internet zu funktionieren, ohne von einer zentralen Instanz kontrolliert zu werden. Wie eine traditionelle Applikation können DApps Front-End-Code und Benutzeroberflächen in jeder beliebigen Programmiersprache enthalten. Darüber werden dann Anfragen an das Blockchain-basierte Backend gestellt. \(Blockgeeks, 2018\)
 
 ![](../../../.gitbook/assets/dapps.png)
 

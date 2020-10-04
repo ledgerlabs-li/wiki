@@ -1,3 +1,7 @@
+---
+description: 'Digitale, regelbasierte und automatisierte Verträge'
+---
+
 # Smart Contracts
 
 > **Ein Smart Contract ist ein programmierter und regel-basierter digitaler Vertrag auf der Blockchain. Im Gegensatz zu herkömmlichen Verträgen sind Smart Contracts eindeutig und werden automatisch verarbeitet \(Lewrick & Di Giorgio, 2018, S. 73\).**
