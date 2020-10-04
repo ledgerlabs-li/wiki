@@ -6,7 +6,7 @@ description: Vom Tauschhandel bis zu Bitcoin
 
 ## Geschichte des Geldes
 
-![Eigene Darstellung in Anlehnung an Hackernoon \(2019\).](../../.gitbook/assets/from-barter-to-bitcoin.png)
+![Eigene Darstellung in Anhlehnung an Hackernoon \(2019\).](../../.gitbook/assets/image%20%2811%29.png)
 
 ## Hilf uns diesen Artikel auszubauen!
 

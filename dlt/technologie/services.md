@@ -10,7 +10,7 @@ Eine besondere Anwendung von Smart Contracts ist eine [dezentrale autonome Organ
 
 
 
-![Eigene Darstellung in Anlehnung an Voshmgir \(2019\).](../../.gitbook/assets/image%20%2811%29.png)
+![Eigene Darstellung in Anlehnung an Voshmgir \(2019\).](../../.gitbook/assets/image%20%2813%29.png)
 
 ## Hilf uns diesen Artikel auszubauen!
 
